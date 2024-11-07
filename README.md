@@ -89,4 +89,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 หากมีคำถามหรือข้อเสนอแนะ สามารถติดต่อได้ที่:
 - Email: teerayut.so@kkumail.com
 - GitHub: https://github.com/OTRONTO-F
-```
